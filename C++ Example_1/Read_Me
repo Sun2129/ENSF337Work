@@ -1,0 +1,4 @@
+#Read_me
+
+The purpose of this project is to manipulate a Matrix that is created based off of the input of the user. It allows for the population of a matrix, 
+the displaying of a matrix, as well as creating a direct copy of a matrix among other functions.
